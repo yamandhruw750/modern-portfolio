@@ -254,9 +254,7 @@ button {
 
 /* 4. About  */
 
-.about_wrapper{
-  height: 100vh;
-}
+
 
 .about_wrapper ul.nav-pills {
   border: 1px solid var(--grey-color);
@@ -320,9 +318,7 @@ button {
 
 /* 6. Portfolio */
 
-.portfolio_wrapper{
-  height: 100vh;
-}
+
 
 .portfolio_wrapper .card {
   height: 100%;
@@ -414,3 +410,4 @@ button {
   color: var(--primary-color);
   font-weight: 500;
 }
+
